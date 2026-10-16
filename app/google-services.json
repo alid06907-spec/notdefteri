@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636880449095",
+    "project_id": "com-benim-notdefteri-319c1",
+    "storage_bucket": "com-benim-notdefteri-319c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636880449095:android:9dc044f2958416aefb4b62",
+        "android_client_info": {
+          "package_name": "com.benim.notdefteri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3a0ZTtjMLRyMDmQs_OD0Imnrm1BQUi2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
